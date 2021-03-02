@@ -50,7 +50,17 @@ body {
      background-position: center;
      background-size: cover;
      position: relative;
-  }
+     
+    }
+
+
+    .hero-secondary {
+      margin: 20px;
+      background-color: black;
+      font-size: 20px;
+      color: red;
+    }
+
 /*hero style ends*/
  
  .hero-form {
